@@ -2,18 +2,25 @@
 > this repo is for managing base style of component.
 
 We will port component to several modern front-end framework(vue, react, angular)
+We has a goal is full-featured web compoenet libraries with configurable by several build tools.
 
 ## Todo (for release 0.1.0)
 
 - [ ] Button
 - [ ] Input
-- [ ] Input-AutoSelect
 - [ ] Select
+  - [ ] Auto selection
+  - [ ] Multiple selection
+  - [ ] Grouping options
+  - [ ] Categorized options
 - [ ] Datepicker
-- [ ] DateRangePicker (with shortcuts)
+  - [ ] Shortcuts
+  - [ ] Limit option (function/date-ranges)
+- [ ] DateRangePicker
 - [ ] TimePicker
 - [ ] TimeRangePaicker
-- [ ] Form (with assertion success/fail noti)
+- [ ] Form
+  - [ ] Every input types has assertion success/fail notofication
 - [ ] Layout
 - [ ] Switch
 - [ ] Grid
