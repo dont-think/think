@@ -1,0 +1,29 @@
+{
+  "name": "@think-ui/core",
+  "version": "1.0.0",
+  "description": "> this repo is for managing base style of component.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/think-ui/think.git"
+  },
+  "keywords": [
+    "css-framework"
+  ],
+  "author": "Jinseoung Lee",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/think-ui/think/issues"
+  },
+  "homepage": "https://github.com/think-ui/think#readme",
+  "devDependencies": {
+    "css-loader": "^0.28.11",
+    "node-sass": "^4.9.0",
+    "sass-loader": "^7.0.2",
+    "style-loader": "^0.21.0",
+    "webpack": "^4.11.0"
+  }
+}
